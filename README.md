@@ -1,10 +1,3 @@
-![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)
-![Android](https://img.shields.io/badge/Android-Developer-brightgreen)
-![C#](https://img.shields.io/badge/C%23-Intermediate-blue)
-![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-blue)
-
-
-  
 
 ### Hi there 👋
 
@@ -14,4 +7,10 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/esma-ozmiş)
 
+![GitHub Profile GIF]([https://example.com/your-gif-url.gif](https://www.canva.com/design/DAFxID-7WnA/Qk8YNcinwBJtf8of1OXXgA/view?utm_content=DAFxID-7WnA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel))
 
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)
+![Android](https://img.shields.io/badge/Android-Developer-brightgreen)
+![C#](https://img.shields.io/badge/C%23-Intermediate-blue)
+![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-blue)
