@@ -8,8 +8,8 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/esma-ozmiş)
 
 
-[![gif]([https://tenor.com/bP5gx.gif](https://github.com/esmaozmis/esmaozmis/issues/1#issue-1941666859))
-](https://github.com/esmaozmis/esmaozmis/issues/1#issue-1941666859)
+
+[(https://github.com/esmaozmis/esmaozmis/issues/1#issue-1941666859)]
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)
 ![Android](https://img.shields.io/badge/Android-Developer-brightgreen)
