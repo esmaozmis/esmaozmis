@@ -8,7 +8,7 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/esma-ozmiş)
 
 <p align="center">
-  <img src="https://github.com/esmaozmis/esmaozmis/issues/1#issue-1941666859" width="550" height="337">
+  <img src="https://github.com/esmaozmis/esmaozmis/blob/main/assets" width="550" height="337">
 </p>
 
 
