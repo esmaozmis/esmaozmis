@@ -8,7 +8,7 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/esma-ozmiş)
 
 
-![Uploading diegodrawsart-women-and-girls-in-science.gif…]()
+
 
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)
