@@ -8,7 +8,7 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/esma-ozmiş)
 
 
-![Tasarım Adı](https://www.canva.com/design/DAFxID-7WnA/Qk8YNcinwBJtf8of1OXXgA/view?utm_content=DAFxID-7WnA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![Tasarım Önizlemesi]([URL](https://www.canva.com/design/DAFxID-7WnA/Qk8YNcinwBJtf8of1OXXgA/watch?utm_content=DAFxID-7WnA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)
