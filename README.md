@@ -14,5 +14,4 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Expert-orange)
 ![Android](https://img.shields.io/badge/Android-Developer-brightgreen)
-![C#](https://img.shields.io/badge/C%23-Intermediate-blue)
 ![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-blue)
